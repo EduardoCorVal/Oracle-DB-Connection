@@ -1,2 +1,7 @@
 # Oracle-DB-Connection
-Demo program connects to an Oracle Autonomous Database in Oracle Cloud using one-way TLS.
+Demo program connects to a MySQL service running in a Docker container.
+
+## Documentation
+
+Documentation: https://python-oracledb.readthedocs.i...
+
